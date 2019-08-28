@@ -1,0 +1,75 @@
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\BalanceBot.exe.config
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\BalanceBot.pdb
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ZedGraph.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ZedGraph.xml
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\Pt100.csprojResolveAssemblyReference.cache
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\Pt100.csproj.GenerateResource.Cache
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\Pt100.csproj.CoreCompileInputs.cache
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.pdb
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\BalanceBot.exe.config
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\BalanceBot.exe
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\BalanceBot.pdb
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\ZedGraph.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\ZedGraph.xml
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\obj\Debug\Pt100.csprojResolveAssemblyReference.cache
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\obj\Debug\Pt100.csproj.GenerateResource.Cache
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\obj\Debug\Pt100.csproj.CoreCompileInputs.cache
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.exe
+G:\myDesktop\pt100 Nhu Toan\CODE\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.pdb
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\BalanceBot.exe.config
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\BalanceBot.exe
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\BalanceBot.pdb
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\ZedGraph.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\ZedGraph.xml
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\obj\Debug\Pt100.csprojResolveAssemblyReference.cache
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\obj\Debug\Pt100.csproj.GenerateResource.Cache
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\obj\Debug\Pt100.csproj.CoreCompileInputs.cache
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.exe
+G:\myDesktop\pt100 Nhu Toan\CODE Pt100\Pt100_Csharp\BalanceBot\obj\Debug\BalanceBot.pdb

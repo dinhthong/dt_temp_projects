@@ -1,0 +1,25 @@
+.btnDetail
+{
+display: none !important;
+
+}
+
+.estore_shopcart #getCoupon{display: none !important;}
+.estore_shopcart #couponCode{display: none !important;}
+.estore_shopcart #step_01 .cart-button {float:right !important;}
+.estore_shopcart #step_01 .cart-button span {display: none !important;}
+.estore_shopcart #step_01 .cart-button a span {display: block !important;}
+.estore_home #centerPanel .box-title h3,.estore_home #centerPanel .box-title h1 {padding: 0px !important;}
+.estore_home #centerPanel .box-title h3 span,.estore_home .box-title h1 span {padding: 0px !important; background-color:transparent !important}
+.estore_home #centerPanel .box-title H3 a {color:#ffffff !important; background-color:#02659d; padding:0px 25px}
+.nivo-caption {display:none !important;}
+
+
+
+
+
+
+
+
+
+

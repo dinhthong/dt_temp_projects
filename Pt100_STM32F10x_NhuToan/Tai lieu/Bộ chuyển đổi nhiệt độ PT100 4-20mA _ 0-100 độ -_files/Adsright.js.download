@@ -1,0 +1,38 @@
+//++++ Quang cao chay doc 2 ben
+
+function FloatTopDivRight(objAdDivRight) {
+    
+	if (document.body.offsetWidth >= MainContentW + RightBannerW + RightAdjust) {
+		objAdDivRight.style.display = "block";
+		startRX = ((document.body.clientWidth - MainContentW) / 2) + (MainContentW + RightAdjust),
+		startRY = TopAdjust;
+		var d = document;
+		function mr(id) {
+			var er = d.getElementById ? d.getElementById(id) : d.all ? d.all[id] : d.layers[id];
+			er.sP = function (x, y) { this.style.left = x + 'px'; this.style.top = y + 'px'; };
+			er.x = startRX;
+			er.y = startRY;
+			return er;
+		}
+		window.stayTopRight = function () {
+			if (document.documentElement && document.documentElement.scrollTop)
+				var pY = document.documentElement.scrollTop;
+			else if (document.body)
+				var pY = document.body.scrollTop;
+			if (document.body.scrollTop > 30) { startRY = 3; } else { startRY = TopAdjust; };
+			ftlObj.y += (pY + startRY - ftlObj.y) / 16;
+			ftlObj.sP(ftlObj.x, ftlObj.y);
+			setTimeout("stayTopRight()", 1);
+		}
+		ftlObj = mr("divAdRight");
+		stayTopRight();
+	}
+	else {
+	    objAdDivRight.style.display = "block";
+	}
+}
+
+function ShowAdDivRight() {
+	var objAdDivRight = document.getElementById("divAdRight");
+	FloatTopDivRight(objAdDivRight);
+}

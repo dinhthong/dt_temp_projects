@@ -1,0 +1,149 @@
+D:\Project\BalanceBot\BalanceBot\bin\Debug\BalanceBot.exe.config
+D:\Project\BalanceBot\BalanceBot\bin\Debug\BalanceBot.exe
+D:\Project\BalanceBot\BalanceBot\bin\Debug\BalanceBot.pdb
+D:\Project\BalanceBot\BalanceBot\bin\Debug\ZedGraph.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\ZedGraph.xml
+D:\Project\BalanceBot\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Project\BalanceBot\BalanceBot\obj\Debug\BalanceBot.csprojResolveAssemblyReference.cache
+D:\Project\BalanceBot\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+D:\Project\BalanceBot\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+D:\Project\BalanceBot\BalanceBot\obj\Debug\BalanceBot.csproj.GenerateResource.Cache
+D:\Project\BalanceBot\BalanceBot\obj\Debug\BalanceBot.exe
+D:\Project\BalanceBot\BalanceBot\obj\Debug\BalanceBot.pdb
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\BalanceBot.exe.config
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\BalanceBot.exe
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\BalanceBot.pdb
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\ZedGraph.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\ZedGraph.xml
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\obj\Debug\BalanceBot.csprojResolveAssemblyReference.cache
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\obj\Debug\BalanceBot.csproj.GenerateResource.Cache
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\obj\Debug\BalanceBot.csproj.CoreCompileInputs.cache
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\obj\Debug\BalanceBot.exe
+G:\myDesktop\Visual Studio C#\C# dien tu\BalanceBot LTP\BalanceBot\obj\Debug\BalanceBot.pdb
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\BalanceBot.exe.config
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\BalanceBot.exe
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\BalanceBot.pdb
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ZedGraph.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ZedGraph.xml
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.csprojResolveAssemblyReference.cache
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.csproj.GenerateResource.Cache
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.csproj.CoreCompileInputs.cache
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.exe
+G:\myDesktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.pdb
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\BalanceBot.exe.config
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\BalanceBot.pdb
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ZedGraph.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ZedGraph.xml
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.csprojResolveAssemblyReference.cache
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.csproj.GenerateResource.Cache
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.csproj.CoreCompileInputs.cache
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\BalanceBot LTP - Copy\BalanceBot\obj\Debug\BalanceBot.pdb
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\BalanceBot.exe.config
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\BalanceBot.pdb
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\ZedGraph.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\ZedGraph.xml
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\obj\Debug\BalanceBot.csprojResolveAssemblyReference.cache
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\obj\Debug\BalanceBot.csproj.GenerateResource.Cache
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\obj\Debug\BalanceBot.csproj.CoreCompileInputs.cache
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\obj\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\COM_Port\BalanceBot\obj\Debug\BalanceBot.pdb
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\BalanceBot.exe.config
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\BalanceBot.pdb
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ZedGraph.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ZedGraph.xml
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.csprojResolveAssemblyReference.cache
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.MyForm.resources
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.Properties.Resources.resources
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.csproj.GenerateResource.Cache
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.csproj.CoreCompileInputs.cache
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.exe
+C:\Users\dinh thong\Desktop\NhuToan_temperature\BalanceBot\obj\Debug\BalanceBot.pdb

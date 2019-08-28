@@ -1,0 +1,29 @@
+$(document).ready(function(){
+
+	if (typeof(tthomeslider_speed) == 'undefined')
+		tthomeslider_speed = 500;
+	if (typeof(tthomeslider_pause) == 'undefined')
+		tthomeslider_pause = 3000;
+	if (typeof(tthomeslider_loop) == 'undefined')
+		tthomeslider_loop = true;
+
+
+	if (!!$.prototype.bxSlider)
+		$('#tthomeslider').bxSlider({
+			useCSS: false,
+            maxSlides: 1,
+            infiniteLoop: tthomeslider_loop,
+            hideControlOnEnd: true,
+            pager: true,
+            autoHover: true,
+            auto: tthomeslider_loop,
+            speed: tthomeslider_speed,
+            pause: tthomeslider_pause,
+            mode: 'fade',
+            controls: true
+		});
+
+    $('.tthomeslider-description').click(function () {
+        window.location.href = $(this).prev('a').prop('href');
+    });
+});

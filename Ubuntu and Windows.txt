@@ -1,0 +1,13 @@
+https://xivila.com/talks/detail/173/dieu-khien-raspberry-pi-tu-linux-su-dung-rdesktop/
+
+
+http://downtoearthlinux.com/posts/how-to-use-man-pages-to-enhance-terminal-skills/
+http://downtoearthlinux.com/posts/the-essential-primer-for-the-linux-terminal/
+http://downtoearthlinux.com/posts/killer-websites-for-new-linux-users/
+http://downtoearthlinux.com/posts/wtf-is-a-boot-loader-wtf-is-grub/
+http://downtoearthlinux.com/posts/wtf-is-booting-why-is-it-called-booting/
+http://downtoearthlinux.com/posts/who-is-root-why-is-he-in-my-computer/
+http://downtoearthlinux.com/posts/wtf-is-a-disk-partition/
+http://downtoearthlinux.com/posts/how-to-use-man-pages-to-enhance-terminal-skills/
+
+

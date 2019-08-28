@@ -1,0 +1,145 @@
+//global variables
+var serialScrollNbImagesDisplayed;
+var selectedCombination = [];
+var globalQuantity = 0;
+var colors = [];
+var original_url = window.location + '';
+var first_url_check = true;
+var firstTime = true;
+$(document).ready(function(){
+	$(document).on('mouseenter', '.soldout', function(event) {
+		$('.sou').addClass('soldouton');
+	})
+	$(document).on('mouseleave', '.soldout', function(event) {
+		$('.sou').removeClass('soldouton');
+	})
+
+	//init the serialScroll for thumbs
+	$('#thumbs_list_frame').owlCarousel({
+		navigation: true,
+		items : 4, //10 items above 1000px browser width
+		itemsDesktop : [1200,3], 
+		itemsDesktopSmall : [991,3], 
+		itemsTablet: [767,3], 
+		itemsMobile : [480,2] 
+	});
+	
+	$('.list-image-product').owlCarousel({
+		dots: true,
+		items : 1,
+		autoPlay: true,
+		loop: true
+	});
+
+	//set jqZoom parameters if needed
+	if ($('#thumbs_list .shown img').length){
+		var new_src = $('#thumbs_list .shown img').attr('src').replace('grande','2048x2048');
+		if ($('.jqzoom img').attr('src')!= new_src)
+			var srcset = new_src.replace('2048x2048','1024x1024')+' 1x, '+new_src.replace('2048x2048','1024x1024')+' 2x' ;
+		$('.jqzoom img').attr({src: new_src,srcset:srcset}).parent().attr({href: new_src, 'data-image':new_src, 'data-zoom-image':new_src});
+	}
+	$( ".show-more" ).toggle(
+		function() {
+			$( this ).addClass( "expand" );
+			$('.js-show-more-2').text('Thu Gọn Nội Dung');
+			$('#ttmoreinfo .rte').addClass( "expand" );
+		}, function() {
+			$( this ).removeClass( "expand" );
+			$('.js-show-more-2').text('Xem Thêm Nội Dung');
+			$('#ttmoreinfo .rte').removeClass( "expand" );
+			$.scrollTo( '#producttab', 1200 );
+		}
+	);
+
+	$(document).on("mouseenter",".jqzoom img",function() {
+		if($('.zoomContainer').length !== 0){
+			$('.zoomContainer').remove();
+		}
+		if($(this).parent().not('.zooomWrapper')) {
+			$(this).elevateZoom({zoomType: "inner",scrollZoom : true, gallery:'thumbs_list_frame',cursor: "pointer",zoomWindowFadeIn: 500,zoomWindowFadeOut: 500});
+		}
+		$('#kt_zoom').bind("click", function(e) {  
+			var ez = $('#kt_zoom').data('elevateZoom');
+			$.fancybox(ez.getGalleryList());
+			return false;
+		});
+	})
+	$(document).on("mouseenter",".pb-center-column",function() {
+		$('.zoomContainer').remove();
+	});
+
+});
+
+$(window).resize(function(){
+	$('#thumbs_list').trigger('goto', 0);
+});
+
+//hover 'other views' images management
+$(document).on('mouseover', '#views_block li a', function(){
+	displayImage($(this));
+});
+//add a link on the span 'view full size' and on the big image
+$(document).on('click', '#view_full_size, #image-block', function(e){
+	$('#views_block .shown').click();
+});
+//catch the click on the "more infos" button at the top of the page
+$(document).on('click', '#short_description_block .button', function(e){
+	$('#more_info_tab_more_info').click();
+	$.scrollTo( '#more_info_tabs', 1200 );
+});
+// Hide the customization submit button and display some message
+$(document).on('click', '#customizedDatas input', function(e){
+	$('#customizedDatas input').hide();
+	$('#ajax-loader').fadeIn();
+	$('#customizedDatas').append(uploading_in_progress);
+});
+
+// The button to increment the product value
+$(document).on('click','#quantity_wanted_p .product_quantity_up',function(){
+	var obj_qty  = $(this).parent('#quantity_wanted_p').find('input#quantity_wanted');
+	var val_qty  = parseInt(obj_qty.val()),
+		min_qty  = parseInt(obj_qty.data('min')),
+		max_qty  = parseInt(obj_qty.data('max')),
+		step_qty = parseInt(obj_qty.data('step'));
+	val_qty = val_qty + step_qty;
+	if(max_qty && val_qty > max_qty){ val_qty = max_qty; }
+	obj_qty.val(val_qty);
+	obj_qty.trigger("change");
+	return false;
+});
+
+// The button to decrement the product value
+$(document).on('click','#quantity_wanted_p .product_quantity_down',function(){
+	var obj_qty  = $(this).parent('#quantity_wanted_p').find('input#quantity_wanted');
+	var val_qty  = parseInt(obj_qty.val()),
+		min_qty  = parseInt(obj_qty.data('min')),
+		max_qty  = parseInt(obj_qty.data('max')),
+		step_qty = parseInt(obj_qty.data('step'));
+	val_qty = val_qty - step_qty;
+	if(min_qty && val_qty < min_qty){ val_qty = min_qty; }
+	if(!min_qty && val_qty < 0){ val_qty = 0; }
+	obj_qty.val(val_qty);
+	obj_qty.trigger("change");
+	return false;
+});
+
+//update display of the large image
+function displayImage(domAAroundImgThumb, no_animation){
+	if (typeof(no_animation) == 'undefined')
+		no_animation = false;
+	if (domAAroundImgThumb.attr('href'))
+	{
+		var new_title = domAAroundImgThumb.attr('title');
+		var new_href = domAAroundImgThumb.attr('href');
+		$('#views_block li a').removeClass('shown');
+		$(domAAroundImgThumb).addClass('shown');
+		var new_src = $('#thumbs_list .shown img').attr('src').replace('grande','2048x2048');
+		if ($('.jqzoom img').attr('src')!= new_src){
+			var srcset = new_src.replace('2048x2048','large')+' 1x, '+new_src.replace('2048x2048','grande')+' 2x' ;
+			$('.jqzoom img').attr({src: new_src,srcset:srcset}).parent().attr({href: new_src});
+			if($('.zoomContainer').length !== 0){
+				$('.zoomContainer').remove();
+			}
+		}
+	}
+}

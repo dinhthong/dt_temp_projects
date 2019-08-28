@@ -1,0 +1,9 @@
+$(document).ready(function(){
+		$('#tt_topmenu ul.tree').css('display','none');
+		$('#tt_topmenu h4.title_block').on('click', function(){
+			$(this).toggleClass('active').parent().find('ul.tree').stop().slideToggle('medium');
+		})
+		$('#tt_topmenu').addClass('accordion').find('ul.tree').slideUp('fast');
+
+		$('.tt_sf-menu > li:last-child').addClass('last_class');
+});

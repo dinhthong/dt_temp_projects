@@ -1,0 +1,36 @@
+/tmp/ccfwEwRE.o: In function `main':
+main.cpp:(.text+0x8c): undefined reference to `cv::VideoCapture::VideoCapture(int)'
+main.cpp:(.text+0x9b): undefined reference to `cv::VideoCapture::isOpened() const'
+main.cpp:(.text+0xf0): undefined reference to `cv::namedWindow(cv::String const&, int)'
+main.cpp:(.text+0x15f): undefined reference to `cvCreateTrackbar'
+main.cpp:(.text+0x183): undefined reference to `cvCreateTrackbar'
+main.cpp:(.text+0x1a7): undefined reference to `cvCreateTrackbar'
+main.cpp:(.text+0x1cb): undefined reference to `cvCreateTrackbar'
+main.cpp:(.text+0x1ef): undefined reference to `cvCreateTrackbar'
+/tmp/ccfwEwRE.o:main.cpp:(.text+0x213): more undefined references to `cvCreateTrackbar' follow
+/tmp/ccfwEwRE.o: In function `main':
+main.cpp:(.text+0x254): undefined reference to `cv::VideoCapture::read(cv::_OutputArray const&)'
+main.cpp:(.text+0x2fe): undefined reference to `cv::cvtColor(cv::_InputArray const&, cv::_OutputArray const&, int, int)'
+main.cpp:(.text+0x427): undefined reference to `cv::inRange(cv::_InputArray const&, cv::_InputArray const&, cv::_InputArray const&, cv::_OutputArray const&)'
+main.cpp:(.text+0x4dc): undefined reference to `cv::getStructuringElement(int, cv::Size_<int>, cv::Point_<int>)'
+main.cpp:(.text+0x560): undefined reference to `cv::erode(cv::_InputArray const&, cv::_OutputArray const&, cv::_InputArray const&, cv::Point_<int>, int, int, cv::Scalar_<double> const&)'
+main.cpp:(.text+0x619): undefined reference to `cv::getStructuringElement(int, cv::Size_<int>, cv::Point_<int>)'
+main.cpp:(.text+0x69d): undefined reference to `cv::dilate(cv::_InputArray const&, cv::_OutputArray const&, cv::_InputArray const&, cv::Point_<int>, int, int, cv::Scalar_<double> const&)'
+main.cpp:(.text+0x756): undefined reference to `cv::getStructuringElement(int, cv::Size_<int>, cv::Point_<int>)'
+main.cpp:(.text+0x7da): undefined reference to `cv::dilate(cv::_InputArray const&, cv::_OutputArray const&, cv::_InputArray const&, cv::Point_<int>, int, int, cv::Scalar_<double> const&)'
+main.cpp:(.text+0x893): undefined reference to `cv::getStructuringElement(int, cv::Size_<int>, cv::Point_<int>)'
+main.cpp:(.text+0x917): undefined reference to `cv::erode(cv::_InputArray const&, cv::_OutputArray const&, cv::_InputArray const&, cv::Point_<int>, int, int, cv::Scalar_<double> const&)'
+main.cpp:(.text+0x99a): undefined reference to `cv::imshow(cv::String const&, cv::_InputArray const&)'
+main.cpp:(.text+0x9fe): undefined reference to `cv::imshow(cv::String const&, cv::_InputArray const&)'
+main.cpp:(.text+0xa26): undefined reference to `cv::waitKey(int)'
+main.cpp:(.text+0xac8): undefined reference to `cv::VideoCapture::~VideoCapture()'
+main.cpp:(.text+0xd4c): undefined reference to `cv::VideoCapture::~VideoCapture()'
+/tmp/ccfwEwRE.o: In function `cv::String::String(char const*)':
+main.cpp:(.text._ZN2cv6StringC2EPKc[_ZN2cv6StringC5EPKc]+0x54): undefined reference to `cv::String::allocate(unsigned long)'
+/tmp/ccfwEwRE.o: In function `cv::String::~String()':
+main.cpp:(.text._ZN2cv6StringD2Ev[_ZN2cv6StringD5Ev]+0x14): undefined reference to `cv::String::deallocate()'
+/tmp/ccfwEwRE.o: In function `cv::Mat::~Mat()':
+main.cpp:(.text._ZN2cv3MatD2Ev[_ZN2cv3MatD5Ev]+0x39): undefined reference to `cv::fastFree(void*)'
+/tmp/ccfwEwRE.o: In function `cv::Mat::release()':
+main.cpp:(.text._ZN2cv3Mat7releaseEv[_ZN2cv3Mat7releaseEv]+0x4b): undefined reference to `cv::Mat::deallocate()'
+collect2: error: ld returned 1 exit status

@@ -1,0 +1,13 @@
+@charset "utf-8";h1{font-size:138.5%;}
+h2{font-size:123.1%;}
+h3{font-size:101%;}
+h1,h2,h3{margin:1em 0;}
+h1,h2,h3,h4,h5,h6,strong{font-weight:bold;}
+abbr,acronym{border-bottom:1px dotted #000;cursor:help;}
+em{font-style:italic;}
+ol,ul li{list-style-type:none;}
+dl dd{margin-left:1em;}
+table{border-collapse:separate;border-spacing:0;vertical-align:middle;margin-bottom:1.4em;}
+th,td{vertical-align:middle;}
+caption{margin-bottom:.5em;text-align:center;}
+p,fieldset,table,pre{margin-bottom:10px;}
